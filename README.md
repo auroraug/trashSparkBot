@@ -24,6 +24,8 @@ Just create a wallet for transferring and receiving tokens in spark, transfer th
 如果不发币则不需要用issuer wallet
 直接创建一个钱包spark用来转账和接收代币即可，需要打哪个就向目标spark地址转账指定sats，等待对方转币给你（非自动打币，取决于dev信誉）
 
+There's a lot of issues atm see https://github.com/buildonspark/spark/issues/14
+DYOR
 
 
 pre-requirement: create a telegram bot & api token & node.js
