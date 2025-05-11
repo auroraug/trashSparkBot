@@ -1,0 +1,24 @@
+{
+  "name": "spark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@buildonspark/issuer-sdk": "^0.0.45",
+    "@buildonspark/spark-sdk": "^0.1.14",
+    "@types/node-telegram-bot-api": "^0.64.8",
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
