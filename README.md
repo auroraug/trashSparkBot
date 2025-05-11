@@ -32,6 +32,7 @@ pre-requirement: create a telegram bot & api token & node.js
 
 ```
 git clone https://github.com/auroraug/trashSparkBot.git
+vim .env && cd trashSparkBot/
 ```
 
 ```
